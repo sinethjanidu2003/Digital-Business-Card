@@ -1,0 +1,92 @@
+
+.card{
+  display: block;
+  width: 317px;
+  margin: auto;
+  background-color: #1A1B21;  
+  padding: 0px;
+  margin-top: 20px;
+}
+
+
+.userImg{
+  width: 317px;
+  height: 317px;
+  border-radius: 8px;
+}
+
+.card-body{
+  background-color: #1A1B21;
+  width: 312px;
+  color: white;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 0px;
+  text-align: center;
+}
+
+.title{
+   font-weight: 400;
+   color: #F3BF99;
+    font-size: 12.8px;
+    line-height: 0.49px;
+    padding: 0;
+}
+
+.website{
+  font-weight: 400;
+  color: #F5F5F5;
+  font-size: 10.24px;
+  line-height: 30.36px;
+
+
+}
+
+.emailBtn{
+  width: 247px;
+  height: 34px;
+  border-radius: 6px;
+  Padding: 9px, 13px, 9px, 11px;
+  color : black;
+  background-color: white;
+  font-weight: 500;
+  font-size: 14px;
+}
+
+.section{
+  text-align: left;
+  width: 247px;
+  margin: auto;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.sectionp{
+  font-weight: normal;
+  font-size: 10.24px;
+  line-height: 15.36px;
+}
+
+.about{
+  margin-top: 34px;
+
+}
+
+
+.footerBtn{
+  width: 24px;
+  height: 24px;
+  background-color: #918E9B;
+  border: none;
+  border-radius: 4px;
+  text-align: center!important;
+}
+
+.footer{
+  height: 64px;
+  display: flex;
+  justify-content: space-evenly;
+  border-radius: 8px;
+  background-color: #161619;
+  align-items: center;
+}
